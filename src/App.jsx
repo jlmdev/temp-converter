@@ -1,7 +1,8 @@
 import React from 'react'
+import { Temperatures } from './components/Temperatures'
 
 function App() {
-  return <div>Hello, World!</div>
+  return <Temperatures />
 }
 
 export default App
